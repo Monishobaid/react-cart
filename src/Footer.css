@@ -1,0 +1,14 @@
+.Footer { 
+    height: 2.5rem;
+    width: 100vw;
+    background-color: #b2dfdb;
+
+    color: rgb(22, 16, 22);
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    padding-top: 1rem;
+    font-family: monospace;
+
+  }
+  
